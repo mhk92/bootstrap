@@ -10,15 +10,7 @@
 </head>
 <body>
 
-<p class="text-primary text-center">Lorem ipsum dolor.</p>
-<p class="text-secondary text-center">Lorem ipsum dolor.</p>
-<p class="text-info text-center">Lorem ipsum dolor.</p>
-<p class="text-danger text-center">Lorem ipsum dolor.</p>
-<p class="text-success text-center">Lorem ipsum dolor.</p>
-<p class="text-warning text-center">Lorem ipsum dolor.</p>
-<p class="text-white bg-primary text-center">Lorem ipsum dolor.</p>
-<p class="text-white text-center bg-secondary">Lorem ipsum dolor.</p>
-<p class="text-gray text-center bg-danger">Lorem ipsum dolor.</p>
+<p class="text-center text-secondary lead fw-bold display-5">Lorem ipsum dolor sit amet.</p>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
